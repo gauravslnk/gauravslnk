@@ -1,8 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Gaurav</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
-</p>
 
 <p align="center">🚀 Developer | 💻 Code Tinkerer | 📸 Photographer | 🔍 Always Exploring</p>
 
@@ -18,11 +15,10 @@
 
 ### 🧠 Who Am I?
 
-💡 I build things that (hopefully) help people  
-- 🧩 I love breaking down complex logic into elegant code  
-- 📸 When I’m not coding, I’m behind the camera → [@enzzowho](https://instagram.com/enzzowho)  
-- 🌱 Always exploring new tools, tech, and side quests  
-- 📬 Email me at: **gauravsolanki443@gmail.com**
+💡 I build things that (hopefully) help people   
+📸 When I’m not coding, I’m behind the camera → [@enzzowho](https://instagram.com/enzzowho)  
+🌱 Always exploring new tools, tech, and side quests  
+📬 Email me at: **gauravsolanki443@gmail.com**
 
 
 ---
@@ -54,14 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravslnk&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements Unlocked
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravslnk&theme=algolia&margin-w=15&no-frame=true" />
 </p>
 
 ---
