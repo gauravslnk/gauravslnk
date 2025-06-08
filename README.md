@@ -63,6 +63,16 @@
 
 ---
 
+
+### 🎧 Chill Zone
+
+<a href="https://open.spotify.com/user/jl3ute5qrdtxuvvp8xevgmzmc?si=d4579d12b6c14fb0" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+</a>
+
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -78,6 +88,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" height="300"/>
 </p>
+
+---
+
 
 <p align="center">
 ✨ Crafted with ❤️, fueled by caffeine, and styled with emojis.  
