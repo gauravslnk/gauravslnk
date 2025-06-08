@@ -25,7 +25,7 @@
 
 ### 🌐 Let's Connect
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/gaurav-solanki-07a5a6321"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://instagram.com/gauravslnk"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
   <a href="https://twitter.com/gauravslnk"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
