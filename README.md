@@ -67,19 +67,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauravslnk&show_icons=true&theme=tokyonight&hide_border=true&hide=stars" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravslnk&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravslnk&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravslnk&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ### 🧙‍♂️ Built with Magic & Markdown
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" height="300"/>
 </p>
 
 <p align="center">
