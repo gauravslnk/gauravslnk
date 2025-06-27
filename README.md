@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Gaurav</h1>
+<h1 align="center">Hey there! 👋 I'm Gourav</h1>
 
 
 <p align="center">🚀 Developer | 💻 Code Tinkerer | 📸 Photographer | 🔍 Always Exploring</p>
@@ -18,7 +18,7 @@
 💡 I build things that (hopefully) help people   
 📸 When I’m not coding, I’m behind the camera → [@enzzowho](https://instagram.com/enzzowho)  
 🌱 Always exploring new tools, tech, and side quests  
-📬 Email me at: **gauravsolanki443@gmail.com**
+📬 Email me at: **itsgouravsolanki@gmail.com**
 
 
 ---
@@ -26,9 +26,9 @@
 ### 🌐 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/gaurav-solanki-07a5a6321"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/gouravslnk"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://instagram.com/gauravslnk"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://twitter.com/gauravslnk"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://twitter.com/gouravslnk"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
