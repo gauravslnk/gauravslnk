@@ -51,7 +51,7 @@
 ### Backend
 [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
-### 🗄Databases
+### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Version Control & Developer Tools
@@ -63,33 +63,18 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-
-</p>
-
----
-
-
-### 🎧 Chill Zone
+### Chill Zone
 
 <a href="https://open.spotify.com/user/jl3ute5qrdtxuvvp8xevgmzmc?si=d4579d12b6c14fb0" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
 </a>
 
-
----
-
-### 🧙‍♂️ Built with Magic & Markdown
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" height="300"/>
 </p>
 
 ---
 
 
 <p align="center">
-✨ Crafted with ❤️, fueled by caffeine, and styled with emojis.  
-<br>
 If you read this far—congrats, you deserve a cookie 🍪
 </p>
 
